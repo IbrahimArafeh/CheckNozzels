@@ -1,0 +1,6 @@
+C:\Nozzles.xml
+select fp_nozzle_ext from fct04
+Data Source=localhost
+Initial Catalog=TestDB
+User ID=sa
+Password=P@ssw0rd
