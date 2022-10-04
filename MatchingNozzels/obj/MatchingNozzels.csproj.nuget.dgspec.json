@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\MatchingNozzels\\MatchingNozzels\\MatchingNozzels.csproj": {}
+    "C:\\Projects\\CheckNozzels\\MatchingNozzels\\MatchingNozzels.csproj": {}
   },
   "projects": {
-    "C:\\Project\\MatchingNozzels\\MatchingNozzels\\MatchingNozzels.csproj": {
+    "C:\\Projects\\CheckNozzels\\MatchingNozzels\\MatchingNozzels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\MatchingNozzels\\MatchingNozzels\\MatchingNozzels.csproj",
+        "projectUniqueName": "C:\\Projects\\CheckNozzels\\MatchingNozzels\\MatchingNozzels.csproj",
         "projectName": "MatchingNozzels",
-        "projectPath": "C:\\Project\\MatchingNozzels\\MatchingNozzels\\MatchingNozzels.csproj",
-        "packagesPath": "C:\\Users\\IBA022\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\MatchingNozzels\\MatchingNozzels\\obj\\",
+        "projectPath": "C:\\Projects\\CheckNozzels\\MatchingNozzels\\MatchingNozzels.csproj",
+        "packagesPath": "C:\\Users\\I.A\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\CheckNozzels\\MatchingNozzels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\IBA022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\I.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -70,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
